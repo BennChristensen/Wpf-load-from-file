@@ -1,0 +1,5 @@
+﻿1;Jamie Vardy;33;19
+2;Pierre-Emerick Aubameyang;30;17
+3;Mohamed Salah;27;16
+4;Sergio Agüero;31;16
+5;Danny Ings;27;15
